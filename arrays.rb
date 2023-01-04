@@ -18,3 +18,7 @@ p booleans
 
 booleans.unshift(true)
 p booleans
+
+#  Index positions in string start with the value 0 and go upwards
+# numerically. For example, in my floats array if I were to call the
+# element in index position 2 the return would be 8.52
